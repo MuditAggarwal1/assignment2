@@ -62,27 +62,4 @@ Example API request:
 https://random-data-api.com/api/users/random_user?size=80
 ```
 
----
 
-## 📌 Additional Notes
-- If you face issues with iOS, try:
-  ```sh
-  cd ios && pod install && cd ..
-  ```
-- Ensure that an **Android emulator** or a **physical device** is running before executing `npx react-native run-android`.
-- If the Metro bundler isn't running, start it manually:
-  ```sh
-  npx react-native start
-  ```
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
-Made with ❤️ by Akash Duttachowdhury
-
-# assignment2
-# assignment2
